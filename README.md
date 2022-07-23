@@ -15,6 +15,5 @@ I am a 1st year student at __USICT, Delhi__.
 - **Languages**
      - English
      - Hindi
-- **Soft Skills**
-     -
+
   

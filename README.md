@@ -1,7 +1,7 @@
 ### Hi there 👋!
 I am **Indresh Maurya**
 ## About Me
-I am a 1st year student at __USICT, Delhi__.
+I am a 2nd year student at __USICT, Delhi__.
 
 ## Coding Skills
 <p>

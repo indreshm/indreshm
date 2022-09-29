@@ -13,6 +13,6 @@ Sophomore at USICT
   
   </p>
   
-## Other Skills  
+ 
  
   
